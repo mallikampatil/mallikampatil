@@ -1,3 +1,4 @@
+<!--
 <h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  Hey, I'm Mallika.</h1>
 
 <h3><img src="https://image.flaticon.com/icons/png/512/428/428001.png" width="25" height="25"/> About Me </h3>
@@ -30,3 +31,4 @@ Coming soon!
   <a href="https://mallikampatil.github.io/" target="_blank"><img alt="Personal Website" src="https://mallikampatil.github.io/assets/images/Mallika-Patil-logo.png" width="30"/></a> 
 
 </p>
+-->
