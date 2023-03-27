@@ -1,9 +1,9 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! Thanks for STOPPING by!
+<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! Thanks for taking a look!
 <!--
 <h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  Hey, I'm Mallika.</h1>
 
 <h3><img src="https://image.flaticon.com/icons/png/512/428/428001.png" width="25" height="25"/> About Me </h3>
-<p> Computer science student currently pursuing her Master's at the University of Illinois at Chicago, graduating 2022.<p>
+<p> Computer science student currently completed her Master's at the University of Illinois at Chicago, graduating 2022.<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mallikampatil&show_icons=true&theme=algolia&count_private=true&hide=stars&" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikampatil&layout=compact&theme=algolia" height="150"/>
