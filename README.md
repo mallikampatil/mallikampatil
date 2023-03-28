@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! Thank you for taking a look Th, F in Costa Rica!
+<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! Thank you for taking a look!
 <!--
 <h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  Hey, I'm Mallika.</h1>
 
