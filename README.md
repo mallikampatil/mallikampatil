@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! Thanks for stopping by! 
+<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below! More recent projects listed here:
 <!--
 <h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  Hey, I'm Mallika.</h1>
 
@@ -10,8 +10,9 @@
 
 <h3><img src="https://image.flaticon.com/icons/png/512/1825/1825157.png" width="25" height="25"/> Current Interests </h3>
 <ul>  
-  <li>iOS/ Android Development</li>
+  <li>iOS Development</li>
   <li>Front End Development</li>
+  <li>Full Stack Development</li>
   <li>Internet of Things</li>
   <li>Cybersecurity</li>
   <li>Diversity in Tech</li>
@@ -22,8 +23,9 @@ Coming soon!
 <h3><img src="https://image.flaticon.com/icons/png/512/167/167755.png" width="25" height="25"/> Currently Learning </h3>
 <ul>  
   <li>AWS</li>
-  <li>Azure</li>
+  <li>GCP</li>
   <li>Algorithms</li>
+  <li>Pics</li>
  </ul>
 <h3><img src="https://image.flaticon.com/icons/png/512/1017/1017466.png" width="25" height="25"/> Find Me </h3>
 <p>
