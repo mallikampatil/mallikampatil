@@ -2,19 +2,18 @@
 <h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  Hey, I'm Mallika.</h1>
 
 <h3><img src="https://image.flaticon.com/icons/png/512/428/428001.png" width="25" height="25"/> About Me </h3>
-<p> Computer science student currently completed her Master's at the University of Illinois at Chicago, graduated 2022.<p>
+<p> Computer science student currently completed her Master's at the University of Illinois at Chicago, graduated 2022. :P<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mallikampatil&show_icons=true&theme=algolia&count_private=true&hide=stars&" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikampatil&layout=compact&theme=algolia" height="150"/>
 
 <h3><img src="https://image.flaticon.com/icons/png/512/1825/1825157.png" width="25" height="25"/> Current Interests </h3>
 <ul>  
-  <li>iOS Development</li>
   <li>Front End Development</li>
   <li>Full Stack Development</li>
-  <li>Internet of Things</li>
-  <li>Cybersecurity</li>
   <li>Diversity in Tech</li>
+  <li>API Dev</li>
+  <li>Data Engineering</li>
  </ul>
   
 <h3><img src="https://image.flaticon.com/icons/png/512/1053/1053367.png" width="25" height="25"/> Current Projects </h3>
@@ -24,7 +23,6 @@ Coming soon!
   <li>AWS</li>
   <li>GCP</li>
   <li>Algorithms</li>
-  <li>Pics</li>
  </ul>
 <h3><img src="https://image.flaticon.com/icons/png/512/1017/1017466.png" width="25" height="25"/> Find Me </h3>
 <p>
