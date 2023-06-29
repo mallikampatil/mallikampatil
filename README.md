@@ -12,7 +12,6 @@
   <li>Front End Development</li>
   <li>Full Stack Development</li>
   <li>Diversity in Tech</li>
-  <li>API Dev</li>
   <li>Data Engineering</li>
  </ul>
   
