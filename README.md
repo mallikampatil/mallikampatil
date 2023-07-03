@@ -13,6 +13,6 @@ I recently completed my MS in CS @ UIC. Thank you for taking a look through the 
 - continuing skills in GCP, Python, and Java. <img width="26" height="26" src="https://img.icons8.com/stickers/100/google-logo.png" alt="google-logo"/>
 - to run apps. <img width="26" height="26" src="https://img.icons8.com/stickers/100/trainers--v1.png" alt="trainers--v1"/>
 
-## Check out Website and Linkedin!
+## Check out Linkedin and Website!
 <img alt="LinkedIn" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="30"/></a> 
 <a href="https://mallikampatil.github.io/" target="_blank"><img alt="Personal Website" src="https://mallikampatil.github.io/assets/images/Mallika-Patil-logo.png" width="30"/></a> 
