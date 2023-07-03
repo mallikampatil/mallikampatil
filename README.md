@@ -1,32 +1,18 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1784/1784096.png" width="40" height="40"/> Hi! I'm Mallika, take a look at some of my projects below!
-<h1><img src="https://cdn.discordapp.com/emojis/552927506957729802.gif?size=128" width="40" height="40"/>  </h1>
+# <img width="49" height="49" src="https://img.icons8.com/stickers/100/cinnamon-roll.png" alt="cinnamon-roll"/> Hi, my name is Mallika!
+## A little about me
+I recently completed my MS in CS @ UIC. Thank you for taking a look through the ins and outs of my projects below!
 
-<h3><img src="https://image.flaticon.com/icons/png/512/428/428001.png" width="25" height="25"/> About Me </h3>
-<p> Computer science student currently completed her Master's at the University of Illinois at Chicago, graduated 2022. <p>
+## I'm currently working an...
+- on a NPM project. <img width="38" height="38" src="https://img.icons8.com/stickers/100/hand-peace-skin-type-1.png" alt="hand-peace-skin-type-1"/>
+- well versed in HTML, CSS, and JavaScript. <img width="38" height="38" src="https://img.icons8.com/stickers/100/html.png" alt="html"/> <img width="38" height="38" src="https://img.icons8.com/stickers/100/css.png" alt="css"/> <img width="38" height="38" src="https://img.icons8.com/stickers/100/js.png" alt="js"/>
+- an expert in front end development, React JS, and implementations. <img width="38" height="38" src="https://img.icons8.com/stickers/100/books-1.png" alt="books-1"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mallikampatil&show_icons=true&theme=algolia&count_private=true&hide=stars&" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikampatil&layout=compact&theme=algolia" height="150"/>
+## I'm currently learning...
+- backend and full stack development. <img width="26" height="26" src="https://img.icons8.com/stickers/100/lip-gloss.png" alt="lip-gloss"/>
+- interested in learning Analytics and AI. <img width="26" height="26" src="https://img.icons8.com/stickers/100/positive-dynamic.png" alt="positive-dynamic"/>
+- continuing skills in GCP, Python, and Java. <img width="26" height="26" src="https://img.icons8.com/stickers/100/google-logo.png" alt="google-logo"/>
+- to run apps. <img width="26" height="26" src="https://img.icons8.com/stickers/100/trainers--v1.png" alt="trainers--v1"/>
 
-<h3><img src="https://image.flaticon.com/icons/png/512/1825/1825157.png" width="25" height="25"/> Current Interests </h3>
-<ul>  
-  <li>Front End Development</li>
-  <li>Full Stack Development</li>
-  <li>Diversity in Tech</li>
-  <li>Data Engineering</li>
- </ul>
-  
-<h3><img src="https://image.flaticon.com/icons/png/512/1053/1053367.png" width="25" height="25"/> Current Projects </h3>
-Coming soon!
-<h3><img src="https://image.flaticon.com/icons/png/512/167/167755.png" width="25" height="25"/> Currently Learning </h3>
-<ul>  
-  <li>AWS</li>
-  <li>GCP</li>
-  <li>Algorithms</li>
- </ul>
-<h3><img src="https://image.flaticon.com/icons/png/512/1017/1017466.png" width="25" height="25"/> Find Me </h3>
-<p>
-  <a href="https://github.com/mallikampatil" target="_blank"><img alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="30"/></a> 
-    <a href="https://www.linkedin.com/in/mallikampatil" target="_blank"><img alt="LinkedIn" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="30"/></a> 
-  <a href="https://mallikampatil.github.io/" target="_blank"><img alt="Personal Website" src="https://mallikampatil.github.io/assets/images/Mallika-Patil-logo.png" width="30"/></a> 
 
-</p>
+<img alt="LinkedIn" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="30"/></a> 
+<a href="https://mallikampatil.github.io/" target="_blank"><img alt="Personal Website" src="https://mallikampatil.github.io/assets/images/Mallika-Patil-logo.png" width="30"/></a> 
